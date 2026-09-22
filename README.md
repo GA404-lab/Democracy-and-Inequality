@@ -32,6 +32,13 @@ The complete analysis, findings and interpretation are available in my Substack 
 
 Alternatively you can read the pdf [here on github](Democracy-Inequality-analysis.pdf).
 
+## Machine Learning Appendix
+
+I tested whether cross-country inequality could be predicted from the available democracy, prosperity and human-capital indicators using Random Forest, XGBoost, a multilayer perceptron and a stacking model.
+
+Predictive performance was modest across every model. The tuned multilayer perceptron performed best, achieving an average cross-validated R² of 0.24. This suggests that the indicators included in this dataset capture only a limited portion of the variation in inequality. Historical, institutional and structural factors not represented in the data are likely important.
+
+This appendix is predictive rather than causal and demonstrates feature engineering, preprocessing, model tuning, cross-validation and ensemble comparison. The machine-learning appendix didn't make it into the Substack as its limited predictive performance did not materially impact the article's argument.
 ## Code
 
 The complete Python analysis can be found in [`democracy_inequality.py`](democracy_inequality.py).
