@@ -1,5 +1,4 @@
-# Democracy, Inequality and Human Capital - Python, Machine Learning
-<p align="center">
+# Democracy and Inequality: Statistical Analysis and Predictive Modelling with World Bank Data Using Python<p align="center">
 <img width="1456" height="755" alt="449717ec-b593-4f1e-9b03-f85dca789b2a_1809x938" src="https://github.com/user-attachments/assets/0d24460f-f6ec-4f75-af3a-51f27177bb7a" />
 <img width="1809" height="938" alt="3c26bad1-5dd6-43b1-b1a8-71933a8b9ba3_1809x938" src="https://github.com/user-attachments/assets/9fe4ff62-5629-4f16-b570-9b92e815e9a6" />
 <img width="1456" height="755" alt="672df370-0fa4-451a-bcba-d36d5d68f06b_1809x938" src="https://github.com/user-attachments/assets/8c46fb24-1ac6-4eea-8366-d8155477d4af" />
